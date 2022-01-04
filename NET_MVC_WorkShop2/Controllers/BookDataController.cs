@@ -15,6 +15,7 @@ namespace NET_MVC_WorkShop2.Controllers
         [HttpGet()]
         public ActionResult Index()
         {
+            //NET_MVC_WorkShop2.Common.Logger.Write(NET_MVC_WorkShop2.Common.Logger.LogCategoryEnum.Error, ex.ToString());
             return View();
         }
 

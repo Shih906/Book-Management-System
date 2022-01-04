@@ -124,6 +124,7 @@
     <Content Include="Global.asax" />
     <Content Include="js\KendoUIGrid.js" />
     <Content Include="js\script.js" />
+    <Content Include="Log4Net\log4netconfig.xml" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="libman.json" />
