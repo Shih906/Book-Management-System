@@ -8,3 +8,7 @@ jquery
 .NET FrameWork
 KendoUI
 MSSQL
+
+## 說明
+根據router.cs 設定
+執行IIS Server 後，訪問 localhost:
