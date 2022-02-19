@@ -50,11 +50,11 @@ WebConfig 定義資料庫路徑
 ---
 ## Demo
 ### 查詢書籍
-
+![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E6%9F%A5%E8%A9%A2%E6%9B%B8%E7%B1%8D.gif)
 ### 新增書籍
 ![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E6%96%B0%E5%A2%9E%E6%9B%B8%E7%B1%8D.gif)
 ### 編輯書籍
-
+![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E7%B7%A8%E8%BC%AF%E6%9B%B8%E7%B1%8D.gif)
 ### 刪除書籍
 ![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E5%88%AA%E9%99%A4%E6%9B%B8%E7%B1%8D.gif)
 ---
