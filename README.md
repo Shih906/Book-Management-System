@@ -49,6 +49,12 @@ WebConfig 定義資料庫路徑
 
 ---
 ## Demo
+### 查詢書籍
+
+### 新增書籍
+![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E6%96%B0%E5%A2%9E%E6%9B%B8%E7%B1%8D.gif)
+### 編輯書籍
+
 ### 刪除書籍
 ![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E5%88%AA%E9%99%A4%E6%9B%B8%E7%B1%8D.gif)
 ---
