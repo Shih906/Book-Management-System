@@ -9,6 +9,8 @@ jquery
 KendoUI
 MSSQL
 
+---
+
 ## 說明
 根據 ```RouteConfig.cs``` 設定
 執行 ```IIS Server``` 後，訪問 ```localhost:55380/BookData/Index```
@@ -44,6 +46,13 @@ WebConfig 定義資料庫路徑
     <add name="DBConn" connectionString="Data Source=DESKTOP-40A05S2;Initial Catalog=GSSWEB;User ID=sa;Password=123456;" />
   </connectionStrings>
 ```
+
+---
+## Demo
+### 刪除書籍
+![image](https://github.com/Shih906/Book-Management-System/blob/master/gif/%E5%88%AA%E9%99%A4%E6%9B%B8%E7%B1%8D.gif)
+---
+
 ## 開發工具
 Microsoft Visual Studio 
 
