@@ -3,18 +3,6 @@
 
 ---
 
-## 開發環境
-
-Asp.Net MVC : 5.2.4
-
-KendoUI Web : 2.6.11
-
-Jquery : 1.10.2
-
-Microsoft SQL Server :  18.4
-
----
-
 ## 說明
 根據 ```RouteConfig.cs``` 設定
 執行 ```IIS Server``` 後，訪問 ```localhost:55380/BookData/Index```
@@ -69,3 +57,15 @@ Microsoft Visual Studio
 ![image](https://user-images.githubusercontent.com/88469902/148934026-74a24e50-dcdb-45bc-b3dd-e87fa9223d0d.png)
 
 下載連結 : https://visualstudio.microsoft.com/zh-hant/downloads/
+
+---
+
+## 套件與版本環境
+
+Asp.Net MVC : 5.2.4
+
+KendoUI Web : 2.6.11
+
+Jquery : 1.10.2
+
+Microsoft SQL Server :  18.4
